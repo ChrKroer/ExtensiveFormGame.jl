@@ -1,1 +1,1 @@
-# extensive_form_game
+# ExtensiveFormGame
